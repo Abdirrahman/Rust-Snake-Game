@@ -1,0 +1,12 @@
+/Users/abdirrahman/Desktop/snakegame/target/debug/deps/gif-702b269dd6135261.rmeta: /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs
+
+/Users/abdirrahman/Desktop/snakegame/target/debug/deps/libgif-702b269dd6135261.rlib: /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs
+
+/Users/abdirrahman/Desktop/snakegame/target/debug/deps/gif-702b269dd6135261.d: /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs
+
+/Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs:
+/Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs:
+/Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs:
+/Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs:
+/Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs:
+/Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs:

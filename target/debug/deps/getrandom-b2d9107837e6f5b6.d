@@ -1,0 +1,11 @@
+/Users/abdirrahman/Desktop/snakegame/target/debug/deps/getrandom-b2d9107837e6f5b6.rmeta: /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/lib.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/error.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/util.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/use_file.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/util_libc.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/error_impls.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/macos.rs
+
+/Users/abdirrahman/Desktop/snakegame/target/debug/deps/getrandom-b2d9107837e6f5b6.d: /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/lib.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/error.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/util.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/use_file.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/util_libc.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/error_impls.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/macos.rs
+
+/Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/lib.rs:
+/Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/error.rs:
+/Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/util.rs:
+/Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/use_file.rs:
+/Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/util_libc.rs:
+/Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/error_impls.rs:
+/Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.15/src/macos.rs:
